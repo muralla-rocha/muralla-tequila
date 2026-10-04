@@ -1,0 +1,115 @@
+@import 'tailwindcss';
+
+/*
+ * Theme · Hacienda La Muralla
+ * Tokens extraídos del Figma "Hacienda la Muralla · Landing page".
+ * Las variables --font-marcellus-sc, etc. las inyecta next/font en layout.tsx.
+ */
+
+@theme inline {
+  /* Tipografías */
+  --font-label: var(--font-marcellus-sc), 'Marcellus SC', serif; /* nav, botones, etiquetas */
+  --font-body: var(--font-libre-caslon), 'Libre Caslon Text', Georgia, serif; /* texto y títulos */
+  --font-display:
+    var(--font-pirata-one), 'Pirata One', serif; /* acentos en títulos, nombres de producto */
+  --font-numeral: var(--font-rye), 'Rye', serif; /* numerales romanos (pasos) */
+}
+
+@theme {
+  /* Marca */
+  --color-gold: #c9a26b; /* acento sobre fondos oscuros */
+  --color-bronze: #a07240; /* acento principal, botones, cinta */
+  --color-wine: #a6262b; /* pestaña de lote */
+
+  /* Superficies oscuras */
+  --color-ink: #15110e; /* nav, hero, banner, comunidad */
+  --color-ink-deep: #0e0b09; /* footer */
+  --color-ink-raised: #1c1714; /* formulario */
+
+  /* Superficies claras */
+  --color-cream: #efe7d8; /* fondo base */
+  --color-cream-sand: #e8decb; /* sección tequilas */
+  --color-cream-light: #f6f0e4; /* tarjeta reposado */
+
+  /* Franjas de las tarjetas de tequila (móvil) */
+  --color-stripe-blanco: #b79470;
+  --color-stripe-reposado: #1f4631;
+  --color-agave-green: #1f4631; /* banda superior del pop-up de edad */
+
+  /* Texto sobre fondos oscuros */
+  --color-on-ink: #ede3cf; /* links, texto principal */
+  --color-on-ink-heading: #f1e7d3; /* títulos */
+  --color-on-ink-tab: #f5e9d8;
+  --color-on-ink-soft: #d9c9ae;
+  --color-on-ink-muted: #c8b99e; /* párrafos */
+  --color-on-ink-faint: #9e8c72; /* metadatos, legales */
+  --color-on-ink-placeholder: #8c7c66;
+
+  /* Texto sobre fondos claros */
+  --color-on-cream: #371e15; /* títulos */
+  --color-on-cream-body: #2a1811; /* párrafos */
+  --color-on-cream-muted: #5c4636; /* secundarios */
+
+  /* Bordes y overlays */
+  --color-line-bronze: rgb(160 114 64 / 0.35);
+  --color-line-bronze-strong: rgb(160 114 64 / 0.6);
+  --color-line-form: rgb(160 114 64 / 0.45);
+  --color-line-field: rgb(237 227 207 / 0.35);
+  --color-line-chip: rgb(201 162 107 / 0.5);
+  --color-line-cream: rgb(55 30 21 / 0.15);
+  --color-line-cream-divider: rgb(55 30 21 / 0.3);
+  --color-field: rgb(255 255 255 / 0.03);
+  --color-veil-start: rgb(21 17 14 / 0.85);
+  --color-veil-end: rgb(21 17 14 / 0.2);
+
+  /* Escala tipográfica (desktop) */
+  --text-label-xs: 11px; /* etiquetas de campo, pie de foto */
+  --text-label-sm: 12px;
+  --text-label: 13px; /* nav, botones, eyebrows */
+  --text-body-sm: 15px;
+  --text-body: 18px;
+  --text-lead: 19px;
+  --text-title-md: 34px;
+  --text-title-lg: 46px;
+  --text-title-xl: 52px; /* títulos de sección */
+  --text-title-banner: 60px;
+  --text-hero: 76px; /* línea 1 del hero; línea 2 en 84px */
+  --text-hero-accent: 84px;
+
+  /* Tracking de las etiquetas en Marcellus SC */
+  --tracking-label: 0.16em; /* 2.08px @13px (nav, idioma) */
+  --tracking-button: 0.18em; /* 2.34px @13px */
+  --tracking-eyebrow: 0.22em; /* 2.86px @13px */
+
+  /* Layout */
+  --spacing-gutter: 96px;
+  --spacing-gutter-nav: 64px;
+  --spacing-section: 120px;
+}
+
+@media (max-width: 1023px) {
+  :root {
+    --spacing-gutter: 24px;
+    --spacing-gutter-nav: 20px;
+    --spacing-section: 64px;
+  }
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    background: var(--color-cream);
+    color: var(--color-on-cream-body);
+    font-family: var(--font-body);
+    -webkit-font-smoothing: antialiased;
+  }
+}
+
+/* El script inline del layout marca <html> si ya se verificó la edad (evita el parpadeo).
+   Va fuera de @layer para ganarle a la utilidad `flex` del pop-up. */
+html[data-age-verified] #age-gate {
+  display: none;
+}

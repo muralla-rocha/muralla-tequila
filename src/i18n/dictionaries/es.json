@@ -1,0 +1,259 @@
+{
+  "meta": {
+    "title": "Hacienda La Muralla",
+    "description": "Tequila 100% de agave de San José de Gracia, Los Altos de Jalisco."
+  },
+  "nav": {
+    "home": "INICIO",
+    "story": "NUESTRA HISTORIA",
+    "tequilas": "TEQUILAS",
+    "process": "DEL AGAVE",
+    "recipes": "EN LA COPA",
+    "contact": "CONTACTO",
+    "join": "ÚNETE",
+    "logoAlt": "Hacienda La Muralla",
+    "languageLabel": "Idioma",
+    "menuOpen": "Abrir menú",
+    "menuClose": "Cerrar menú"
+  },
+  "hero": {
+    "lot": "LOTE Nº 001 · EST. 2025",
+    "eyebrow": "TEQUILA 100% DE AGAVE · LOS ALTOS DE JALISCO",
+    "title": {
+      "text": "Orgullo de",
+      "accent": "San José de Gracia"
+    },
+    "subtitle": "Un tequila nacido de nuestra tierra.",
+    "ctaPrimary": "CONOCE NUESTROS TEQUILAS",
+    "ctaSecondary": "NUESTRA HISTORIA",
+    "imageAlt": "Botellas de Muralla Blanco y Muralla Reposado",
+    "eyebrowShort": "TEQUILA 100% DE AGAVE · LOS ALTOS"
+  },
+  "ribbon": [
+    "100% AGAVE AZUL",
+    "SAN JOSÉ DE GRACIA",
+    "LOS ALTOS DE JALISCO",
+    "EST. 2025",
+    "BLANCO · REPOSADO",
+    "BEBE RESPONSABLEMENTE"
+  ],
+  "story": {
+    "eyebrow": "NUESTRA HISTORIA",
+    "title": {
+      "text": "Un orgullo que se cultiva",
+      "accent": "con el tiempo"
+    },
+    "paragraphs": [
+      "En el corazón de Jalisco, nuestra historia comienza en San José de Gracia, una tierra que forma parte de lo que somos y que llevamos con orgullo en cada botella de Hacienda La Muralla.",
+      "Aquí nace una forma de entender el orgullo mexicano: uno que se cultiva con el tiempo, se hereda de generación en generación y permanece en todo lo que hacemos.",
+      "Entre los campos de agave y la belleza del paisaje jalisciense, nace nuestra pasión por el tequila. Cada botella lleva consigo un pedacito de esta tierra y una historia que continúa escribiéndose."
+    ],
+    "imageAlt": "Campo de agave al atardecer",
+    "caption": "CAMPOS DE AGAVE · LOS ALTOS DE JALISCO",
+    "signature": {
+      "name": "Hacienda La Muralla.",
+      "tagline": "ORGULLO DE SAN JOSÉ DE GRACIA"
+    },
+    "facts": [
+      {
+        "value": "1,907 m",
+        "label": "sobre el nivel del mar"
+      },
+      {
+        "value": "100%",
+        "label": "agave azul Weber"
+      },
+      {
+        "value": "Est. 2025",
+        "label": "San José de Gracia"
+      }
+    ],
+    "paragraphsMobile": [
+      "En el corazón de Jalisco, nuestra historia comienza en San José de Gracia, una tierra que llevamos con orgullo en cada botella de Hacienda La Muralla.",
+      "Un orgullo que se cultiva con el tiempo, se hereda de generación en generación y permanece en todo lo que hacemos."
+    ]
+  },
+  "tequilas": {
+    "eyebrow": "NUESTROS TEQUILAS",
+    "title": {
+      "text": "Dos expresiones.",
+      "accent": "Una misma esencia."
+    },
+    "subtitle": "Agave azul de Los Altos, dos maneras de conocerlo.",
+    "items": [
+      {
+        "name": "Muralla Blanco",
+        "type": "TEQUILA BLANCO · 100% DE AGAVE",
+        "description": "Cristalino y directo: el agave cocido tal como sale del alambique, con la frescura mineral de la tierra roja.",
+        "notes": ["Agave cocido", "Lima", "Pimienta blanca", "Mineral"]
+      },
+      {
+        "name": "Muralla Reposado",
+        "type": "TEQUILA REPOSADO · 100% DE AGAVE",
+        "description": "Descansa en barrica de roble hasta encontrar su punto: agave maduro, vainilla y un final cálido de madera.",
+        "notes": ["Agave cocido", "Vainilla", "Caramelo", "Canela"]
+      }
+    ],
+    "specs": ["[40]% ALC. VOL.", "750 ML", "NOM [0000]"],
+    "notesCta": "NOTAS DE CATA",
+    "short": [
+      {
+        "type": "TEQUILA BLANCO",
+        "description": "Cristalino y directo: el agave cocido tal como sale del alambique."
+      },
+      {
+        "type": "TEQUILA REPOSADO",
+        "description": "Descansa en roble hasta encontrar su punto: agave maduro y vainilla."
+      }
+    ]
+  },
+  "process": {
+    "eyebrow": "DEL AGAVE AL TEQUILA",
+    "title": {
+      "text": "De la tierra",
+      "accent": "roja a tu copa"
+    },
+    "steps": [
+      {
+        "title": "Cultivo",
+        "text": "6 a 8 años en la tierra roja de Los Altos. La altura y las noches frías concentran el azúcar del agave."
+      },
+      {
+        "title": "Jima",
+        "text": "Con la coa, el jimador corta las pencas hasta dejar la piña limpia, lista para el horno."
+      },
+      {
+        "title": "Cocción y molienda",
+        "text": "El calor convierte el agave en azúcares; la molienda separa el jugo, el mosto, de la fibra."
+      },
+      {
+        "title": "Destilación y reposo",
+        "text": "Doble destilación y solo el corazón. El Reposado descansa en roble antes de embotellarse."
+      }
+    ],
+    "cta": "CONOCE EL PROCESO COMPLETO",
+    "shortTitles": ["Cultivo", "Jima", "Cocción", "Destilación"]
+  },
+  "terroir": {
+    "eyebrow": "1,907 METROS · TIERRA ROJA",
+    "title": {
+      "text": "La",
+      "accent": "tierra roja",
+      "after": "se nota en la copa."
+    },
+    "text": "Los agaves de Los Altos maduran despacio. Por eso nuestro tequila es dulce, frutal y mineral.",
+    "imageAlt": "Penca de agave sobre tierra roja",
+    "eyebrowShort": "1,907 M · TIERRA ROJA"
+  },
+  "recipes": {
+    "title": {
+      "text": "Recetas de",
+      "accent": "la casa"
+    },
+    "intro": "Así lo servimos en Restaurante y Cantina La Muralla.",
+    "items": [
+      {
+        "name": "Paloma de la Hacienda",
+        "ingredients": "Muralla Blanco · toronja natural · limón · soda · sal de grano"
+      },
+      {
+        "name": "Tierra Roja",
+        "ingredients": "Muralla Blanco · jamaica · limón · escarcha de chile de árbol"
+      },
+      {
+        "name": "Muralla a la Antigua",
+        "ingredients": "Muralla Reposado · piloncillo · amargo de naranja · piel de naranja"
+      }
+    ],
+    "cta": "VISITA EL RESTAURANTE",
+    "eyebrow": "LA MURALLA, EN LA COPA",
+    "viewRecipe": "VER RECETA →"
+  },
+  "community": {
+    "eyebrow": "COMUNIDAD MURALLA",
+    "title": {
+      "text": "Únete a la",
+      "accent": "mesa de la hacienda"
+    },
+    "text": "Sé el primero en saber de novedades y lanzamientos.",
+    "imageAlt": "Botellas de Muralla en el jardín de la hacienda",
+    "form": {
+      "title": "Quiero ser parte",
+      "name": {
+        "label": "NOMBRE COMPLETO",
+        "placeholder": "Ej. María González"
+      },
+      "email": {
+        "label": "CORREO ELECTRÓNICO",
+        "placeholder": "tucorreo@ejemplo.com"
+      },
+      "birthdate": {
+        "label": "FECHA DE NACIMIENTO"
+      },
+      "region": {
+        "label": "ESTADO O PAÍS",
+        "options": ["Jalisco, México", "Ciudad de México, México", "Nuevo León, México", "Otro"]
+      },
+      "adult": "Confirmo que soy mayor de edad y acepto el Aviso de privacidad.",
+      "marketing": "Quiero recibir novedades y promociones de Hacienda La Muralla.",
+      "submit": "QUIERO SER PARTE",
+      "privacy": "Tus datos se usan solo para comunicaciones de la marca. Puedes darte de baja cuando quieras.",
+      "adultShort": "Soy mayor de edad y acepto el Aviso de privacidad.",
+      "sending": "ENVIANDO…",
+      "success": {
+        "title": "¡Bienvenido a la mesa!",
+        "text": "Gracias por unirte. Pronto sabrás de nosotros."
+      },
+      "errors": {
+        "invalid": "Revisa los datos e inténtalo de nuevo.",
+        "underage": "Debes ser mayor de edad para unirte.",
+        "rateLimited": "Demasiados intentos. Espera un minuto e inténtalo de nuevo.",
+        "server": "No pudimos guardar tu registro. Inténtalo de nuevo más tarde."
+      }
+    },
+    "textShort": "Lotes nuevos, catas y lanzamientos. Solo lo que vale la pena brindar."
+  },
+  "footer": {
+    "tagline": "Orgullo de San José de Gracia.",
+    "navHeading": "NAVEGACIÓN",
+    "links": {
+      "home": "Inicio",
+      "story": "Nuestra historia",
+      "tequilas": "Tequilas",
+      "process": "Del agave al tequila",
+      "recipes": "En la copa",
+      "contact": "Contacto"
+    },
+    "followHeading": "SÍGUENOS",
+    "social": [
+      "Instagram · [@haciendalamuralla]",
+      "Facebook · [Hacienda La Muralla]",
+      "TikTok · [@lamuralla]"
+    ],
+    "legal": "© 2026 Hacienda La Muralla · Aviso de privacidad · Términos y condiciones",
+    "responsible": "BEBE RESPONSABLEMENTE · EVITA EL EXCESO",
+    "mobile": {
+      "links": ["Inicio", "Historia", "Tequilas", "Proceso", "Contacto"],
+      "social": ["Instagram", "Facebook", "TikTok"],
+      "legal": "© 2026 · Aviso de privacidad · Términos"
+    }
+  },
+  "ribbonMobile": ["100% AGAVE", "SAN JOSÉ DE GRACIA", "EST. 2025"],
+  "ageGate": {
+    "welcome": "BIENVENIDO A LA HACIENDA",
+    "title": "¿Eres mayor de edad?",
+    "text": "Para entrar confirma que tienes la edad legal para consumir alcohol en tu país: 18 años o más en México.",
+    "textShort": "Confirma que tienes 18 años o más (edad legal en México).",
+    "yes": "SÍ, SOY MAYOR DE EDAD",
+    "no": "NO, SOY MENOR",
+    "remember": "Recordarme en este dispositivo por 30 días",
+    "rememberShort": "Recordarme 30 días",
+    "legal": "Al entrar aceptas nuestros Términos y el Aviso de privacidad.",
+    "minor": {
+      "welcome": "GRACIAS POR TU HONESTIDAD",
+      "title": "Te esperamos en la hacienda",
+      "text": "Por ahora no podemos mostrarte este sitio. Vuelve cuando puedas brindar con nosotros.",
+      "back": "REGRESAR"
+    }
+  }
+}

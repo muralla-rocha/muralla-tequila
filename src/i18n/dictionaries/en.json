@@ -1,0 +1,259 @@
+{
+  "meta": {
+    "title": "Hacienda La Muralla",
+    "description": "100% agave tequila from San José de Gracia, Los Altos de Jalisco."
+  },
+  "nav": {
+    "home": "HOME",
+    "story": "OUR STORY",
+    "tequilas": "TEQUILAS",
+    "process": "FROM AGAVE",
+    "recipes": "IN THE GLASS",
+    "contact": "CONTACT",
+    "join": "JOIN",
+    "logoAlt": "Hacienda La Muralla",
+    "languageLabel": "Language",
+    "menuOpen": "Open menu",
+    "menuClose": "Close menu"
+  },
+  "hero": {
+    "lot": "LOT Nº 001 · EST. 2025",
+    "eyebrow": "100% AGAVE TEQUILA · LOS ALTOS DE JALISCO",
+    "title": {
+      "text": "Pride of",
+      "accent": "San José de Gracia"
+    },
+    "subtitle": "A tequila born from our land.",
+    "ctaPrimary": "DISCOVER OUR TEQUILAS",
+    "ctaSecondary": "OUR STORY",
+    "imageAlt": "Bottles of Muralla Blanco and Muralla Reposado",
+    "eyebrowShort": "100% AGAVE TEQUILA · LOS ALTOS"
+  },
+  "ribbon": [
+    "100% BLUE AGAVE",
+    "SAN JOSÉ DE GRACIA",
+    "LOS ALTOS DE JALISCO",
+    "EST. 2025",
+    "BLANCO · REPOSADO",
+    "DRINK RESPONSIBLY"
+  ],
+  "story": {
+    "eyebrow": "OUR STORY",
+    "title": {
+      "text": "A pride that grows with",
+      "accent": "time"
+    },
+    "paragraphs": [
+      "In the heart of Jalisco, our story begins in San José de Gracia, a land that is part of who we are and that we carry with pride in every bottle of Hacienda La Muralla.",
+      "This is where a way of understanding Mexican pride is born: one that grows with time, is handed down from generation to generation and endures in everything we do.",
+      "Among the agave fields and the beauty of the Jalisco landscape, our passion for tequila was born. Every bottle carries a piece of this land and a story that is still being written."
+    ],
+    "imageAlt": "Agave field at sunset",
+    "caption": "AGAVE FIELDS · LOS ALTOS DE JALISCO",
+    "signature": {
+      "name": "Hacienda La Muralla.",
+      "tagline": "PRIDE OF SAN JOSÉ DE GRACIA"
+    },
+    "facts": [
+      {
+        "value": "1,907 m",
+        "label": "above sea level"
+      },
+      {
+        "value": "100%",
+        "label": "Weber blue agave"
+      },
+      {
+        "value": "Est. 2025",
+        "label": "San José de Gracia"
+      }
+    ],
+    "paragraphsMobile": [
+      "In the heart of Jalisco, our story begins in San José de Gracia, a land we carry with pride in every bottle of Hacienda La Muralla.",
+      "A pride that grows with time, is handed down from generation to generation and endures in everything we do."
+    ]
+  },
+  "tequilas": {
+    "eyebrow": "OUR TEQUILAS",
+    "title": {
+      "text": "Two expressions.",
+      "accent": "One shared essence."
+    },
+    "subtitle": "Blue agave from Los Altos, two ways to know it.",
+    "items": [
+      {
+        "name": "Muralla Blanco",
+        "type": "BLANCO TEQUILA · 100% AGAVE",
+        "description": "Crystalline and direct: cooked agave just as it comes off the still, with the mineral freshness of the red earth.",
+        "notes": ["Cooked agave", "Lime", "White pepper", "Mineral"]
+      },
+      {
+        "name": "Muralla Reposado",
+        "type": "REPOSADO TEQUILA · 100% AGAVE",
+        "description": "Rested in oak barrels until it finds its moment: ripe agave, vanilla and a warm, woody finish.",
+        "notes": ["Cooked agave", "Vanilla", "Caramel", "Cinnamon"]
+      }
+    ],
+    "specs": ["[40]% ABV", "750 ML", "NOM [0000]"],
+    "notesCta": "TASTING NOTES",
+    "short": [
+      {
+        "type": "BLANCO TEQUILA",
+        "description": "Crystalline and direct: cooked agave just as it comes off the still."
+      },
+      {
+        "type": "REPOSADO TEQUILA",
+        "description": "Rested in oak until it finds its moment: ripe agave and vanilla."
+      }
+    ]
+  },
+  "process": {
+    "eyebrow": "FROM AGAVE TO TEQUILA",
+    "title": {
+      "text": "From the red earth",
+      "accent": "to your glass"
+    },
+    "steps": [
+      {
+        "title": "Cultivation",
+        "text": "6 to 8 years in the red earth of Los Altos. The altitude and cold nights concentrate the agave's sugar."
+      },
+      {
+        "title": "Harvest",
+        "text": "With the coa, the jimador cuts away the leaves until the piña is clean, ready for the oven."
+      },
+      {
+        "title": "Cooking and milling",
+        "text": "Heat turns the agave into sugars; milling separates the juice, the mosto, from the fiber."
+      },
+      {
+        "title": "Distillation and rest",
+        "text": "Double distillation, hearts only. The Reposado rests in oak before bottling."
+      }
+    ],
+    "cta": "SEE THE FULL PROCESS",
+    "shortTitles": ["Cultivation", "Harvest", "Cooking", "Distillation"]
+  },
+  "terroir": {
+    "eyebrow": "1,907 METERS · RED EARTH",
+    "title": {
+      "text": "The",
+      "accent": "red earth",
+      "after": "shows in the glass."
+    },
+    "text": "The agaves of Los Altos ripen slowly. That is why our tequila is sweet, fruity and mineral.",
+    "imageAlt": "Agave leaf over red earth",
+    "eyebrowShort": "1,907 M · RED EARTH"
+  },
+  "recipes": {
+    "title": {
+      "text": "House",
+      "accent": "recipes"
+    },
+    "intro": "This is how we serve it at Restaurante y Cantina La Muralla.",
+    "items": [
+      {
+        "name": "Paloma de la Hacienda",
+        "ingredients": "Muralla Blanco · fresh grapefruit · lime · soda · coarse salt"
+      },
+      {
+        "name": "Tierra Roja",
+        "ingredients": "Muralla Blanco · hibiscus · lime · chile de árbol rim"
+      },
+      {
+        "name": "Muralla a la Antigua",
+        "ingredients": "Muralla Reposado · piloncillo · orange bitters · orange peel"
+      }
+    ],
+    "cta": "VISIT THE RESTAURANT",
+    "eyebrow": "LA MURALLA, IN THE GLASS",
+    "viewRecipe": "VIEW RECIPE →"
+  },
+  "community": {
+    "eyebrow": "MURALLA COMMUNITY",
+    "title": {
+      "text": "Join the",
+      "accent": "hacienda's table"
+    },
+    "text": "Be the first to hear about news and launches.",
+    "imageAlt": "Muralla bottles in the hacienda garden",
+    "form": {
+      "title": "I want to join",
+      "name": {
+        "label": "FULL NAME",
+        "placeholder": "E.g. Maria Gonzalez"
+      },
+      "email": {
+        "label": "EMAIL",
+        "placeholder": "youremail@example.com"
+      },
+      "birthdate": {
+        "label": "DATE OF BIRTH"
+      },
+      "region": {
+        "label": "STATE OR COUNTRY",
+        "options": ["Jalisco, Mexico", "Mexico City, Mexico", "Nuevo León, Mexico", "Other"]
+      },
+      "adult": "I confirm that I am of legal drinking age and accept the Privacy Notice.",
+      "marketing": "I want to receive news and promotions from Hacienda La Muralla.",
+      "submit": "I WANT TO JOIN",
+      "privacy": "Your data is used only for brand communications. You can unsubscribe at any time.",
+      "adultShort": "I am of legal drinking age and accept the Privacy Notice.",
+      "sending": "SENDING…",
+      "success": {
+        "title": "Welcome to the table!",
+        "text": "Thank you for joining. You'll hear from us soon."
+      },
+      "errors": {
+        "invalid": "Please check your details and try again.",
+        "underage": "You must be of legal age to join.",
+        "rateLimited": "Too many attempts. Wait a minute and try again.",
+        "server": "We couldn't save your registration. Please try again later."
+      }
+    },
+    "textShort": "New lots, tastings and launches. Only what's worth a toast."
+  },
+  "footer": {
+    "tagline": "Pride of San José de Gracia.",
+    "navHeading": "NAVIGATION",
+    "links": {
+      "home": "Home",
+      "story": "Our story",
+      "tequilas": "Tequilas",
+      "process": "From agave to tequila",
+      "recipes": "In the glass",
+      "contact": "Contact"
+    },
+    "followHeading": "FOLLOW US",
+    "social": [
+      "Instagram · [@haciendalamuralla]",
+      "Facebook · [Hacienda La Muralla]",
+      "TikTok · [@lamuralla]"
+    ],
+    "legal": "© 2026 Hacienda La Muralla · Privacy notice · Terms and conditions",
+    "responsible": "DRINK RESPONSIBLY · AVOID EXCESS",
+    "mobile": {
+      "links": ["Home", "Story", "Tequilas", "Process", "Contact"],
+      "social": ["Instagram", "Facebook", "TikTok"],
+      "legal": "© 2026 · Privacy notice · Terms"
+    }
+  },
+  "ribbonMobile": ["100% AGAVE", "SAN JOSÉ DE GRACIA", "EST. 2025"],
+  "ageGate": {
+    "welcome": "WELCOME TO THE HACIENDA",
+    "title": "Are you of legal drinking age?",
+    "text": "To enter, confirm that you are of legal age to drink alcohol in your country: 18 or older in Mexico.",
+    "textShort": "Confirm that you are 18 or older (legal age in Mexico).",
+    "yes": "YES, I'M OF LEGAL AGE",
+    "no": "NO, I'M UNDERAGE",
+    "remember": "Remember me on this device for 30 days",
+    "rememberShort": "Remember me for 30 days",
+    "legal": "By entering you accept our Terms and the Privacy Notice.",
+    "minor": {
+      "welcome": "THANK YOU FOR YOUR HONESTY",
+      "title": "We'll be waiting for you at the hacienda",
+      "text": "For now we can't show you this site. Come back when you can raise a glass with us.",
+      "back": "GO BACK"
+    }
+  }
+}
